@@ -1,0 +1,4 @@
+﻿  Euler07.cpp
+c:\users\muso\documents\visual studio 2015\projects\projecteuler\euler07\euler07\euler07.cpp(33): warning C4101: 'j': variabile locale senza riferimenti
+  Euler07.vcxproj -> c:\users\muso\documents\visual studio 2015\Projects\ProjectEuler\Euler07\Debug\Euler07.exe
+  Euler07.vcxproj -> c:\users\muso\documents\visual studio 2015\Projects\ProjectEuler\Euler07\Debug\Euler07.pdb (Full PDB)
